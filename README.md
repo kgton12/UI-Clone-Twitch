@@ -1,2 +1,2 @@
-# UI-Clone-Twitch
- UI-Clone-Twitch
+# UI-Clone-Twitch-App
+ UI-Clone-Twitch-App
